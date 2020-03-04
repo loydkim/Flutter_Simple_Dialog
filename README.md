@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![Image description](https://github.com/loydkim/Flutter_Simple_Dialog/blob/master/simpledialog.png?raw=true)
+![Image description](https://github.com/loydkim/Flutter_Simple_Dialog/blob/master/main.png?raw=true)
 
  Flutter provides full native performance on both iOS and Android. I made a Simple Dialog. iOS and android are working good 👍🏻
 
